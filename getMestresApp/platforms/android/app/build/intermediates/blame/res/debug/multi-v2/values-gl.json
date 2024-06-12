@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\andre\\faculdade\\celular\\getmestres-master\\getmestres-master\\getMestresApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Educação\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\51b0725cec861cf1dbae3fa4b5c59cec\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+provider#org.apache.cordova.camera.FileProvider
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:12:9-14:20
+	android:grantUriPermissions
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:12:92-126
+	android:authorities
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:12:19-66
+	android:exported
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:12:67-91
+	android:name
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:12:127-180
+manifest
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+MERGED from [:CordovaLib] C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4d8844fcf2b2187d3ca5511cabc4db64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\23d81a9def7b8034ae676f47529785d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c1df81c117cf77db67cf3ecc26de6ae6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d5339c6474aeeb4b015f664f68198294\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\eae9a4adc54e778e3e563089e7b8465c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\51b0725cec861cf1dbae3fa4b5c59cec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd38e2e1f48a00d478ec0d1ed00b9844\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\da269e5198c71a0d0d2598ca17badd43\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\819b26d6dcb5c982d4e79cfc4b036a80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\719ce8ee85c828c971b831c4fae1655b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:98-143
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:70-97
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:144-202
+	android:versionCode
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:2:46-69
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:5:5-15:19
+	android:supportsRtl
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:5:182-208
+	android:label
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:5:88-120
+	android:hardwareAccelerated
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
+	android:networkSecurityConfig
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:5:121-181
+activity#br.com.codaetreinamentos.getmestres.MainActivity
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:6:136-173
+	android:launchMode
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:6:174-204
+	android:windowSoftInputMode
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:6:296-338
+	android:configChanges
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:6:19-135
+	android:theme
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:6:233-295
+	android:name
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:6:205-232
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:16:22-78
+uses-sdk
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+MERGED from [:CordovaLib] C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\CordovaLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4d8844fcf2b2187d3ca5511cabc4db64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4d8844fcf2b2187d3ca5511cabc4db64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\23d81a9def7b8034ae676f47529785d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\23d81a9def7b8034ae676f47529785d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c1df81c117cf77db67cf3ecc26de6ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c1df81c117cf77db67cf3ecc26de6ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d5339c6474aeeb4b015f664f68198294\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d5339c6474aeeb4b015f664f68198294\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\eae9a4adc54e778e3e563089e7b8465c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\eae9a4adc54e778e3e563089e7b8465c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\51b0725cec861cf1dbae3fa4b5c59cec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\51b0725cec861cf1dbae3fa4b5c59cec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd38e2e1f48a00d478ec0d1ed00b9844\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd38e2e1f48a00d478ec0d1ed00b9844\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\da269e5198c71a0d0d2598ca17badd43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\da269e5198c71a0d0d2598ca17badd43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\819b26d6dcb5c982d4e79cfc4b036a80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\819b26d6dcb5c982d4e79cfc4b036a80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\719ce8ee85c828c971b831c4fae1655b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Educação\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\719ce8ee85c828c971b831c4fae1655b\AndroidManifest.xml:20:5-44
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:13:13-123
+	android:resource
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:13:75-120
+	android:name
+		ADDED from C:\andre\faculdade\celular\getmestres-master\getmestres-master\getMestresApp\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
